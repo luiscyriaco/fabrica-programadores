@@ -1,0 +1,4 @@
+Arthur | 4.666666666666667 | Recuperação
+Miguel | 4.333333333333333 | Recuperação
+Juliano | 7.666666666666667 | Aprovado
+Carol | 3.0 | Reprovado
